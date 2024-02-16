@@ -1,0 +1,31 @@
+.container{
+    border: 1px solid black;
+    margin: 100px 700px;
+    height: 750px;
+    /* height: 600px; */
+    width: 500px;
+    border-radius: 25px 0px;
+    padding: 40px;
+    box-shadow: gray 10px 10px;
+    /* line-height: 0%; */
+}
+.tit{
+    text-align: center;
+}
+input{
+    height: 40px;
+    border-radius: 10px;
+    width: 450px;
+    padding: 0 10px;
+}
+.but{
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(21, 39, 21);
+    font-size: larger;
+    margin-top: 20px;
+    margin-left: 90px;
+    cursor: pointer;
+}
